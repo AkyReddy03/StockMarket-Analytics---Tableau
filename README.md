@@ -10,7 +10,7 @@ Indices: S&P 500
 Cryptocurrencies: Bitcoin, Ethereum
 Economic Indicators: CPI, U.S. Treasury 10-year bond yields, GDP, unemployment rates
 
-** Objectives:**
+**Objectives:**
  
 Analyze long-term trends in stock prices and trading volumes for top companies and their correlation with the S&P 500.
 Identify daily patterns in stock price movements suggesting algorithmic trading strategies.
